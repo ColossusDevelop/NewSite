@@ -20,10 +20,10 @@ function App() {
           <a className="streampageLink">
             <Link to='/StreamPage'>Live Stream</Link> 
           </a>
-          <a classname="socialmediaLink">
+          <a className="socialmediaLink">
             <Link to="/SocialMediaPage">Posts</Link>
           </a>
-          <a classname="videopageLink">
+          <a className="videopageLink">
             <Link to='/VideosPage'>Videos</Link>
           </a>
         </ul>
